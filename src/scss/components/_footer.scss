@@ -1,0 +1,34 @@
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 5em;
+}
+.footer-content h3 p {
+    max-width: 500px;
+}
+.footer-links a {
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    color: #fc894d;
+}
+
+.footer-links li {
+    display: inline-block;
+}
+
+.footer-links a:hover {
+    color: #f34079;
+}
+
+.footer-content h3 p {
+    margin: 0;
+}
+
+.footer-content li {
+    align-items: center;
+}

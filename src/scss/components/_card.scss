@@ -1,0 +1,51 @@
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.card {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 50%;
+    height: fit-content;
+    padding: 16px;
+    margin: 10px auto;
+    color: black;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.card-link{
+    text-decoration: none;
+    color: rgb(204, 204, 204);
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(215, 215, 215);
+}
+
+.card border {
+    background-color: none;
+    border-style: solid;
+    border-width: 4px;
+    text-align: center;
+}
+img {
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5em;
+}
+
+h2 {
+    margin-top: 16px;
+    font-size: 3em;
+}
+.btn {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+
